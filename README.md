@@ -1,2 +1,2 @@
-# super-octo-pancake
+# coursera-test
 Coursera test repository
